@@ -36,8 +36,8 @@ I'm **Wahyu Febri**, a developer from **Purbalingga, Indonesia** 🇮🇩. I enj
 ## GitHub overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wahyuzero&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github&include_all_commits=true" alt="Wahyu's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuzero&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wahyuzero&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github&include_all_commits=true" alt="Wahyu's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wahyuzero&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" alt="Most used languages" />
 </p>
 
 <p align="center">
