@@ -49,6 +49,16 @@ I'm **Wahyu Febri**, a developer from **Purbalingga, Indonesia** 🇮🇩. I enj
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuzero&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub contribution streak" />
 </p>
 
+## 💭 Random dev thought
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="A random developer quote" />
+</p>
+
+<p align="center">
+  <sub>A fresh thought for the next build. The quote changes automatically.</sub>
+</p>
+
 ## Let's connect
 
 <p align="center">
