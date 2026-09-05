@@ -23,6 +23,11 @@ I'm **Wahyu Febri**, a developer from **Purbalingga, Indonesia** 🇮🇩. I enj
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,express,react,vue,postgres,redis,docker,git,github,linux,vscode&perline=8" alt="Technology stack" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
+  <a href="https://github.com/earendil-works/pi"><img src="https://img.shields.io/badge/Pi_Agent-6E56CF?style=for-the-badge&logo=pi&logoColor=white" alt="Pi Agent" /></a>
+</p>
+
 ## Selected projects
 
 | Project | What it is |
