@@ -1,80 +1,57 @@
-# Hi there! I'm Wahyu <img src="https://cdn-icons-png.flaticon.com/512/929/929567.png" width="24" height="24" alt="Waving Hand">
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ff88&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Coffee+Addicted+%F0%9F%98%8B;Welcome+to+my+chaos+%F0%9F%8C%AA%EF%B8%8F;Let's+build+something+awesome+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Wahyu+Febri+%F0%9F%91%8B;Full-Stack+Developer;Open-Source+Builder;Turning+ideas+into+useful+tools" alt="Typing introduction" />
 
-  [![](https://komarev.com/ghpvc/?username=wahyuzero&color=00ff88&style=flat-square&label=Profile+Views)](https://github.com/wahyuzero)
+  <p>
+    <a href="https://github.com/wahyuzero"><img src="https://img.shields.io/badge/GitHub-wahyuzero-161b22?style=flat-square&logo=github" alt="GitHub" /></a>
+    <a href="https://frugaldev.biz.id"><img src="https://img.shields.io/badge/Blog-frugaldev.biz.id-161b22?style=flat-square&logo=firefox" alt="Blog" /></a>
+    <img src="https://komarev.com/ghpvc/?username=wahyuzero&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
+  </p>
 </div>
 
----
+## About
 
-## <img src="https://cdn-icons-png.flaticon.com/512/9215/9215258.png" width="20" height="20" alt="Chart"> GitHub Analytics
+I'm **Wahyu Febri**, a developer from **Purbalingga, Indonesia** 🇮🇩. I enjoy building practical web applications, experimenting with developer tools, and exploring how AI can make everyday workflows simpler.
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wahyuzero&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wahyuzero&layout=compact&theme=radical&hide_border=true&title_color=00ff88&text_color=ffffff&bg_color=0d1117&langs_count=8" />
-</div>
+- 🔭 Building: web apps, automation, and open-source tools
+- 🌱 Learning: backend systems, databases, and security
+- ☕ Working style: curious, iterative, and occasionally powered by too much coffee
+- 💬 Motto: *build useful things, keep learning, share what works*
 
----
+## What I work with
 
-## <img src="https://cdn-icons-png.flaticon.com/512/9215/9215261.png" width="20" height="20" alt="Tools"> Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,express,react,vue,postgres,redis,docker,git,github,linux,vscode&perline=8" alt="Technology stack" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,express,deno,git,github,vscode&theme=dark" alt="Skills" />
-</div>
+## Selected projects
 
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/7855/7855993.png" width="20" height="20" alt="Fire"> Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahyuzero&theme=radical&hide_border=true&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true" alt="Activity Graph" />
-</div>
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/9265/9265215.png" width="20" height="20" alt="Target"> Fun Facts
-
-| Quote | Context |
+| Project | What it is |
 | --- | --- |
-| "It works on my machine" | Every developer ever |
-| "That's a feature, not a bug" | When I mess up |
-| "I'll fix it later" | Lies I tell myself |
-| "99 little bugs in the code..." | Reality |
+| [**Scorp**](https://github.com/wahyuzero/scorp) | A tiny Go agent that connects an LLM to your system. |
+| [**UMKMCraft**](https://github.com/wahyuzero/umkmcraft) | A fast, modular website engine for Indonesian MSMEs. |
+| [**ReplyForge**](https://github.com/wahyuzero/replyforge) | Smart, free, open-source auto-reply for WhatsApp. |
+| [**9router**](https://github.com/wahyuzero/9router) | A multi-provider AI coding setup with automatic fallback. |
+| [**WinXP Web**](https://github.com/wahyuzero/winxp-web) | A browser-based Windows XP-inspired desktop experience. |
 
----
+## GitHub overview
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wahyuzero&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github&include_all_commits=true" alt="Wahyu's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuzero&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" alt="Most used languages" />
+</p>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/9215/9215250.png" width="20" height="20" alt="Quote"> Random Dev Quote
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuzero&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub contribution streak" />
+</p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</div>
+## Let's connect
 
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/9265/9265018.png" width="20" height="20" alt="Connect"> Connect With Me
-
-<div align="center">
-  <a href="https://github.com/wahyuzero">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:wahyuakat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://frugaldev.biz.id">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-  </a>
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/wahyuzero"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://frugaldev.biz.id"><img src="https://img.shields.io/badge/Blog-238636?style=for-the-badge&logo=firefox&logoColor=white" alt="Blog" /></a>
+  <a href="mailto:wahyuakat@gmail.com"><img src="https://img.shields.io/badge/Email-bd2c00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <div align="center">
-  <i>"The best code is the code you didn't have to write because someone else already wrote it."</i>
-  <br>
-  <i>— Frugaldev Proverb</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=wahyuzero&color=00ff88&style=flat-square" alt="Profile Views" />
-  <br>
-  <i>Feel free to stalk my repositories. I won't judge (much).</i>
+  <sub>Thanks for stopping by — feel free to explore my repositories.</sub>
 </div>
